@@ -1,0 +1,5 @@
+{
+    "sketch": "snake/snake.ino",
+    "board": "gamebuino:samd:gamebuino_meta_native",
+    "port": "/dev/ttyACM0"
+}

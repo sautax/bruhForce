@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/sautax/Documents/arduino-1.8.5/portable/sketchbook/libraries/Gamebuino_META/src",
+                "/home/sautax/Documents/arduino-1.8.5/hardware/arduino/avr/libraries/SPI/src",
+                "/home/sautax/Documents/arduino-1.8.5/portable/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL",
+                "/home/sautax/Documents/arduino-1.8.5/portable/packages/arduino/hardware/samd/1.6.18/cores/arduino/avr",
+                "/home/sautax/Documents/arduino-1.8.5/hardware/tools/avr/avr/include/avr",
+                "/home/sautax/Documents/arduino-1.8.5/portable/packages/gamebuino/hardware/samd/1.2.1/cores/arduino/avr",
+                "/home/sautax/Documents/arduino-1.8.5/portable/packages/gamebuino/hardware/samd/1.2.1/cores/arduino",
+                "/home/sautax/Documents/arduino-1.8.5/portable/packages/gamebuino/hardware/samd/1.2.1/variants/gamebuino_meta",
+                "/home/sautax/Documents/arduino-1.8.5/portable/sketchbook/libraries/Gamebuino_META/src/utility/SdFat/src/SdSpiCard",
+                "/home/sautax/Documents/arduino-1.8.5/portable/sketchbook/libraries/Gamebuino_META/src/utility/SdFat/src/FatLib",
+                "/home/sautax/Documents/arduino-1.8.5/hardware/arduino/avr/cores/arduino"
+            ],
+            "forcedInclude": [
+                "/home/sautax/Documents/arduino-1.8.5/portable/packages/gamebuino/hardware/samd/1.2.1/cores/arduino/Arduino.h"
+            ],
+            "browse": {
+                "path": [
+                    "/home/sautax/Documents/arduino-1.8.5/portable/sketchbook/libraries/Gamebuino_META/src",
+                    "/home/sautax/Documents/arduino-1.8.5/hardware/arduino/avr/libraries/SPI/src",
+                    "/home/sautax/Documents/arduino-1.8.5/portable/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL",
+                    "/home/sautax/Documents/arduino-1.8.5/portable/packages/arduino/hardware/samd/1.6.18/cores/arduino/avr",
+                    "/home/sautax/Documents/arduino-1.8.5/hardware/tools/avr/avr/include/avr",
+                    "/home/sautax/Documents/arduino-1.8.5/portable/packages/gamebuino/hardware/samd/1.2.1/cores/arduino/avr",
+                    "/home/sautax/Documents/arduino-1.8.5/portable/packages/gamebuino/hardware/samd/1.2.1/cores/arduino",
+                    "/home/sautax/Documents/arduino-1.8.5/portable/packages/gamebuino/hardware/samd/1.2.1/variants/gamebuino_meta",
+                    "/home/sautax/Documents/arduino-1.8.5/portable/sketchbook/libraries/Gamebuino_META/src/utility/SdFat/src/SdSpiCard",
+                    "/home/sautax/Documents/arduino-1.8.5/portable/sketchbook/libraries/Gamebuino_META/src/utility/SdFat/src/FatLib",
+                    "/home/sautax/Documents/arduino-1.8.5/hardware/arduino/avr/cores/arduino"
+                ]
+            },
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
